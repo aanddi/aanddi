@@ -1,4 +1,4 @@
-![](https://pa1.narvii.com/7616/3b7a9ee805dbaaddb8720a6ecbf95b83f9590b9br1-560-420_00.gif)
+![](https://avatars.mds.yandex.net/i?id=9108f8f00251d153083bec9dea218271-5221937-images-thumbs&n=13)
 <h1>Hi there my name is Andrey</h1>
 
 Languages and Tools:
