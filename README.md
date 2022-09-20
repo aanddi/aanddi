@@ -1,4 +1,4 @@
-![](https://r3.mt.ru/u29/photo002A/20709370868-0/original.gif)
+![](https://pa1.narvii.com/7616/3b7a9ee805dbaaddb8720a6ecbf95b83f9590b9br1-560-420_00.gif)
 <h1>Hi there my name is Andrey</h1>
 
 Languages and Tools:
