@@ -1,5 +1,5 @@
 ![](https://www.rimastronomy.org/wp-content/uploads/2015/10/cropped-01_andromeda.jpg)
-<p align="center"><img width="80%" alt="Hello, I'm Andrey" src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">Hello, I'm Andrey</h1>
 
 <h2>Languages and Tools:</h2>
 
