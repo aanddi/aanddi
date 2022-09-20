@@ -5,3 +5,4 @@ Languages and Tools:
 ![CSS](https://img.shields.io/badge/CSS3-0B0A0C?style=for-the-badge&logo=css3&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aanddi)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanddi&theme=highcontrast)]
