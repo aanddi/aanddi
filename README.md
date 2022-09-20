@@ -2,6 +2,7 @@
 <h1>Hi there my name is Andrey</h1>
 
 <h2>Languages and Tools:</h2>
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kuropatkinnn)
 
 ![HTML](https://img.shields.io/badge/HTML5-0B0A0C?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-0B0A0C?style=for-the-badge&logo=css3&logoColor=white)
