@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 ### Languages and Tools:
-![HTML](https://img.shields.io/badge/-HTML-E24D2D?style=for-the-badge&logo=Html&logoColor=E9D54D)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://ru.wikipedia.org/wiki/HTML5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://ru.wikipedia.org/wiki/CSS)
 
