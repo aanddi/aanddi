@@ -1,4 +1,4 @@
-![](https://cdn.adventistworld.org/wp-content/uploads/2017/12/Our-World-Between-Past-and-future.jpg)
+![](https://www.rimastronomy.org/wp-content/uploads/2015/10/cropped-01_andromeda.jpg)
 <h1>Hi there my name is Andrey</h1>
 
 Languages and Tools:
