@@ -5,6 +5,6 @@ Languages and Tools:
 ![CSS](https://img.shields.io/badge/CSS3-0B0A0C?style=for-the-badge&logo=css3&logoColor=white)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aanddi&theme=dark&show_icons=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanddi&theme=dark&show_icons=true)
