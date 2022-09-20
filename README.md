@@ -9,5 +9,4 @@ Languages and Tools: ![HTML](https://img.shields.io/badge/HTML5-0B0A0C?style=for
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aanddi&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanddi&theme=dark&show_icons=true)
