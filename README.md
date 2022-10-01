@@ -8,6 +8,13 @@ Languages and Tools: ![HTML](https://img.shields.io/badge/HTML5-0B0A0C?style=for
 
 <br />
 
+<h3>О себе:</h3>
+<p>Я начинающий WEB development</p>
+
+<p>В данный момент занимаюсь разработкой своего прокта "Добрая Перканя"</p>
+
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanddi&theme=dark&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aanddi&show_icons=true&theme=dark)
 
