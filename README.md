@@ -6,12 +6,14 @@ OS: ![Windows](https://img.shields.io/badge/Windows-0B0A0C?style=for-the-badge&l
 Languages and Tools: ![HTML](https://img.shields.io/badge/HTML5-0B0A0C?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-0B0A0C?style=for-the-badge&logo=css3&logoColor=white)
 
-<br />
+
 
 <h3>О себе:</h3>
-<p>Я начинающий WEB development</p>
+<p>Я начинающий WEB developer</p>
 
-<p>В данный момент занимаюсь разработкой своего прокта "Добрая Перканя"</p>
+<p>В данный момент занимаюсь разработкой своего первого проекта "Добрая Перканя"</p>
+
+Верстка мобильной версии сайта еще не закончена, ознакомитесь с проектом перейдя по ссылке - https://aanddi.github.io/Project-1/
 
 <br />
 
