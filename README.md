@@ -6,6 +6,8 @@ OS: ![Windows](https://img.shields.io/badge/Windows-0B0A0C?style=for-the-badge&l
 Languages and Tools: ![HTML](https://img.shields.io/badge/HTML5-0B0A0C?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-0B0A0C?style=for-the-badge&logo=css3&logoColor=white)
 
+IDE: ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0B0A0C?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 
 <h3>О себе:</h3>
