@@ -1,5 +1,5 @@
 ![](https://www.rimastronomy.org/wp-content/uploads/2015/10/cropped-01_andromeda.jpg)
-<h1 align="center">Hello, I'm Andrey</h1>
+<h1 align="center">Hello, I'm Andrey 👋</h1>
 
 OS: ![Windows](https://img.shields.io/badge/Windows-0B0A0C?style=for-the-badge&logo=windows&logoColor=white)
 
