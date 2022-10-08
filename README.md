@@ -17,9 +17,9 @@ IDE:  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0B0A0C?style=for
 
 Верстка мобильной версии сайта еще не закончена, ознакомитесь с проектом перейдя по ссылке - <h3>https://aanddi.github.io/Project-1/</h3>
 
-<br />
-<hr
-    >
+
+<hr>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanddi&theme=dark&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aanddi&show_icons=true&theme=dark)
 
