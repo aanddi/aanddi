@@ -1,12 +1,12 @@
 ![](https://www.rimastronomy.org/wp-content/uploads/2015/10/cropped-01_andromeda.jpg)
 <h1 align="center">Hello, I'm Andrey 👋</h1>
 
-OS: ![Windows](https://img.shields.io/badge/Windows-0B0A0C?style=for-the-badge&logo=windows&logoColor=white)
+OS:  ![Windows](https://img.shields.io/badge/Windows-0B0A0C?style=for-the-badge&logo=windows&logoColor=white)
 
-Languages and Tools: ![HTML](https://img.shields.io/badge/HTML5-0B0A0C?style=for-the-badge&logo=html5&logoColor=white)
+Languages and Tools:  ![HTML](https://img.shields.io/badge/HTML5-0B0A0C?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-0B0A0C?style=for-the-badge&logo=css3&logoColor=white)
 
-IDE: ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0B0A0C?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+IDE:  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0B0A0C?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 
