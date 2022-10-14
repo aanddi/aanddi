@@ -1,4 +1,6 @@
-![](https://www.rimastronomy.org/wp-content/uploads/2015/10/cropped-01_andromeda.jpg)
+
+![](https://otkritkis.com/wp-content/uploads/2022/07/guxwi.gif)
+
 <h1 align="center">Hello, I'm Andrey 👋</h1>
 
 OS:  ![Windows](https://img.shields.io/badge/Windows-0B0A0C?style=for-the-badge&logo=windows&logoColor=white)
