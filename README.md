@@ -23,7 +23,7 @@
 </div>
 <hr>
 
-### :bar_chart: Моя статистика:
+### :bar_chart: My stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanddi&theme=vision-friendly-dark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aanddi&theme=dark&background=000000)
