@@ -6,12 +6,12 @@
 <h1 align="center">Ｈｅｌｌｏ，Ｉ＇ｍ　Ａｎｄｒｅｙ</h1>
 
 ### :man_technologist: About Me :
-<p>- Я начинающий WEB developer из России</p>
-<p>- Студент 2го курса КИПУ им. Февзи Якубова</p>
+<p>- I am a novice WEB developer from Russia</p>
+<p>- 2nd year student of the university</p>
 
 ### 📝 My projects
 
-Мой первый проект <strong>"Добрая пекарня"</strong> - https://aanddi.github.io/Project-1/
+My first project <strong>"Добрая пекарня"</strong> - https://aanddi.github.io/Project-1/
 
 <hr>
 
