@@ -6,7 +6,7 @@
 <h1 align="center">Ｈｅｌｌｏ，Ｉ＇ｍ　Ａｎｄｒｅｙ</h1>
 
 ### :man_technologist: About Me :
-<p>- Я начинающий WEB developer из России 💻</p>
+<p>- Я начинающий WEB developer из России 🇷🇺</p>
 <p>- Студент 2го курса КИПУ им. Февзи Якубова</p>
 
 ### 📝 My projects
