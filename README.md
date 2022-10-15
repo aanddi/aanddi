@@ -6,9 +6,13 @@
 <h1 align="center">Hello, I'm Andrey 👋</h1>
 
 ### :man_technologist: About Me :
-<p>Я начинающий WEB developer 💻 из России</p>
+<p>- Я начинающий WEB developer из России 💻</p>
+<p>- Студент 2го курса КИПУ им. Февзи Якубова</p>
+
+### My projects
 
 Мой первый проект <strong>"Добрая пекарня"</strong> - https://aanddi.github.io/Project-1/
+
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
