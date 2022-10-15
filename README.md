@@ -3,7 +3,7 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/939459863372582357/D0DCA84EFE97D6F38C0D480B2BBF2EC653543C24/?    imw=512&amp;&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="900" height="400"/>
 </div>
 
-<h1 align="center">Hello, I'm Andrey 👋</h1>
+<h1 align="center">Ｈｅｌｌｏ，Ｉ＇ｍ　Ａｎｄｒｅｙ</h1>
 
 ### :man_technologist: About Me :
 <p>- Я начинающий WEB developer из России 💻</p>
