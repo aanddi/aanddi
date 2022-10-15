@@ -9,7 +9,7 @@
 <p>- I am a novice WEB developer from Russia</p>
 <p>- 2nd year student of the university</p>
 
-### 📝 My projects
+### 📝 My projects :
 
 My first project <strong>"Добрая пекарня"</strong> - https://aanddi.github.io/Project-1/
 
@@ -27,7 +27,7 @@ My first project <strong>"Добрая пекарня"</strong> - https://aanddi
 </div>
 <hr>
 
-### :bar_chart: My stats:
+### :bar_chart: My stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanddi&theme=vision-friendly-dark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aanddi&theme=dark&background=000000)
