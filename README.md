@@ -3,7 +3,7 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/939459863372582357/D0DCA84EFE97D6F38C0D480B2BBF2EC653543C24/?    imw=512&amp;&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="900" height="400"/>
 </div>
 
-<h1 align="center">Ｈｅｌｌｏ，Ｉ＇ｍ　Ａｎｄｒｅｙ</h1>
+<h1 align="center">Ｈｅｌｌｏ，Ｉ＇ｍ　Ａｎｄｒｅｙ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### :man_technologist: 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 :
 <p>➖ 𝘐 𝘢𝘮 𝘢 𝘣𝘦𝘨𝘪𝘯𝘯𝘦𝘳 𝘞𝘌𝘉 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘧𝘳𝘰𝘮 𝘙𝘶𝘴𝘴𝘪𝘢</p>
