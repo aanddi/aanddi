@@ -11,7 +11,7 @@
 
 ### 📝 𝐌𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 :
 
-𝘔𝘺 𝘧𝘪𝘳𝘴𝘵 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 "Добрая пекарня"</strong> - https://aanddi.github.io/Project-1/
+<p>➖𝘔𝘺 𝘧𝘪𝘳𝘴𝘵 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 "Добрая пекарня"</strong> - https://aanddi.github.io/Project-1/</p>
 
 <hr>
 
