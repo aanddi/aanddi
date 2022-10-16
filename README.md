@@ -31,3 +31,4 @@ My first project <strong>"Добрая пекарня"</strong> - https://aanddi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanddi&theme=vision-friendly-dark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aanddi&theme=dark&background=000000)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aanddi&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
