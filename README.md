@@ -5,18 +5,17 @@
 
 <h1 align="center">Ｈｅｌｌｏ，Ｉ＇ｍ　Ａｎｄｒｅｙ</h1>
 
-### :man_technologist: About Me :
-<p>➖ I am a novice WEB developer from Russia</p>
-<p>➖ 2nd year student of the university</p>
+### :man_technologist: 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 :
+<p>➖ 𝘐 𝘢𝘮 𝘢 𝘣𝘦𝘨𝘪𝘯𝘯𝘦𝘳 𝘞𝘌𝘉 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘧𝘳𝘰𝘮 𝘙𝘶𝘴𝘴𝘪𝘢</p>
+<p>➖ 2𝘯𝘥 𝘺𝘦𝘢𝘳 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘰𝘧 𝘵𝘩𝘦 𝘶𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺</p>
 
-### 📝 My projects :
+### 📝 𝐌𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 :
 
-My first project <strong>"Добрая пекарня"</strong> - https://aanddi.github.io/Project-1/
+𝘔𝘺 𝘧𝘪𝘳𝘴𝘵 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 "Добрая пекарня"</strong> - https://aanddi.github.io/Project-1/
 
 <hr>
 
-### :hammer_and_wrench: Languages and Tools :
-
+### :hammer_and_wrench: 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -27,7 +26,7 @@ My first project <strong>"Добрая пекарня"</strong> - https://aanddi
 </div>
 <hr>
 
-### :bar_chart: My stats :
+### :bar_chart: 𝐌𝐲 𝐬𝐭𝐚𝐭𝐬 :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanddi&theme=vision-friendly-dark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aanddi&theme=dark&background=000000)
