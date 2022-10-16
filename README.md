@@ -6,8 +6,8 @@
 <h1 align="center">Ｈｅｌｌｏ，Ｉ＇ｍ　Ａｎｄｒｅｙ</h1>
 
 ### :man_technologist: About Me :
-<p>- I am a novice WEB developer from Russia</p>
-<p>- 2nd year student of the university</p>
+<p>➖ I am a novice WEB developer from Russia</p>
+<p>➖ 2nd year student of the university</p>
 
 ### 📝 My projects :
 
