@@ -13,7 +13,7 @@
 <p>➖ 2𝘯𝘥 𝘺𝘦𝘢𝘳 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘰𝘧 𝘵𝘩𝘦 𝘶𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 <img src="https://emojio.top/wp-content/uploads/imgemoji/apple/man-student-apple.png" height = 25px/></p>
 
 ### 📝 𝐌𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 :
-<p>➖𝘔𝘺 𝘧𝘪𝘳𝘴𝘵 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 "Добрая пекарня"</strong> - https://aanddi.github.io/Project-1/</p>
+<p>➖ 𝘔𝘺 𝘧𝘪𝘳𝘴𝘵 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 "Добрая пекарня"</strong> - https://aanddi.github.io/Project-1/</p>
 
 <hr>
 
