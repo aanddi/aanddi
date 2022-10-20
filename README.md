@@ -4,7 +4,8 @@
 </div>
 
 <div align="center">
-<h1>Ｈｅｌｌｏ，Ｉ＇ｍ　Ａｎｄｒｅｙ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1>Ｈｅｌｌｏ，Ｉ＇ｍ　Ａｎｄｒｅｙ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="30"
+/></h1>
 </div>
 
 ### :man_technologist: 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 :
