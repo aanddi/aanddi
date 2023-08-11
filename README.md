@@ -11,7 +11,7 @@
 ### :man_technologist: 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 :
 <p>➖ 𝘐 𝘢𝘮 𝘢 𝘣𝘦𝘨𝘪𝘯𝘯𝘦𝘳 𝘞𝘌𝘉 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘧𝘳𝘰𝘮 𝘙𝘶𝘴𝘴𝘪𝘢 <img src="https://emojigraph.org/media/apple/flag-russia_1f1f7-1f1fa.png" height = 25px/></p>
 
-<p>➖ 2𝘯𝘥 𝘺𝘦𝘢𝘳 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘰𝘧 𝘵𝘩𝘦 𝘶𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 <img src="https://emojio.top/wp-content/uploads/imgemoji/apple/man-student-apple.png" height = 25px/></p>
+<p>➖ 3𝘯𝘥 𝘺𝘦𝘢𝘳 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘰𝘧 𝘵𝘩𝘦 𝘶𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 <img src="https://emojio.top/wp-content/uploads/imgemoji/apple/man-student-apple.png" height = 25px/></p>
 
 ### 📝 𝐌𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 :
 <p>➖ 𝘔𝘺 𝘧𝘪𝘳𝘴𝘵 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 <strong> "Добрая пекарня"</strong> - https://aanddi.github.io/Project-1/</p>
